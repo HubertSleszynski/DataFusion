@@ -23,7 +23,7 @@ function App() {
       <Features />
       <Testimonials />
       <CtaSection />
-      <div className="h-[2000px]"></div>
+      <Footer />
     </div>
   );
 }

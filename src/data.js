@@ -1,5 +1,3 @@
-// import icons
-import { FaYoutube, FaInstagram, FaGithub } from "react-icons/fa";
 import { BsChatDotsFill } from "react-icons/bs";
 
 // import images
@@ -132,9 +130,9 @@ export const ctaData = {
 
 export const footerData = {
   logo: LogoV2,
-  address: "Warehouse Society, 234 Bahagia Ave Street PRBW 29281",
+  address: "DataWarehouse, Sokolska 14 18-400",
   email: "info@warehouse.project",
-  phone: "1-232-3434 (Main)",
+  phone: "999 999 999",
   list1: [
     {
       name: "Profile",
@@ -175,23 +173,8 @@ export const footerData = {
       href: "#",
     },
   ],
-  // socialList: [
-  //   {
-  //     icon: <FaYoutube />,
-  //     href: "#",
-  //   },
-  //   {
-  //     icon: <FaInstagram />,
-  //     href: "#",
-  //   },
-  //   {
-  //     icon: <FaGithub />,
-  //     href: "#",
-  //   },
-  // ],
 };
 
-// export const copyrightData = {
-//   text: "© Datawarehouse™, 2020. All rights reserved. Company Registration Number: 21479524.",
-//   icon: <BsChatDotsFill />,
-// };
+export const copyrightData = {
+  text: "© DataWarehouse, 2020. All rights reserved. Company Registration Number: 999 999 999.",
+};
