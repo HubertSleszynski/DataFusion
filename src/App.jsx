@@ -21,6 +21,7 @@ function App() {
       <Hero />
       <About />
       <Features />
+      <Testimonials />
     </div>
   );
 }
