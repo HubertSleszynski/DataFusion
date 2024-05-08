@@ -14,6 +14,7 @@ function App() {
   Aos.init({
     duration: 1800,
     offset: 0,
+    once: true,
   });
   return (
     <div className="overflow-hidden">
