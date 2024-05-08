@@ -20,6 +20,7 @@ function App() {
     <div className="overflow-hidden">
       <Hero />
       <About />
+      <Features />
     </div>
   );
 }
