@@ -22,6 +22,8 @@ function App() {
       <About />
       <Features />
       <Testimonials />
+      <CtaSection />
+      <div className="h-[2000px]"></div>
     </div>
   );
 }
